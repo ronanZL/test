@@ -1,2 +1,2 @@
 Git is a distributed version control system.
-Git is payed software.
+Git is payed software distributed by GPL.
